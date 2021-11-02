@@ -11,8 +11,8 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
-   @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;1,400&family=Source+Sans+Pro&display=swap');
-
+   @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&family=Reem+Kufi:wght@500&family=Secular+One&display=swap');
+   
 html {
   color: #222;
   font-size: 1em;
