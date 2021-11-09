@@ -3,7 +3,7 @@ let angle2 = 0;
 let scalar = 70;
 
 function setup() {
-  createCanvas(710, 400);
+  createCanvas(720, 720);
   noStroke();
   rectMode(CENTER);
 }

@@ -2,7 +2,7 @@ let ball = {};
 let soundFile;
 
 function setup() {
-  createCanvas(710, 100);
+  createCanvas(710, 500);
 }
 
 function draw() {
