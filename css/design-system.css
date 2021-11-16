@@ -19,7 +19,7 @@ body {
   --wf-light-gray: #E6ECF2;
   --wf-bright-yellow: #F2BC1B;
   --wf-medium-yellow: #CF9730;
-  --wf-medium-brown: #CF9730;
+  --wf-medium-brown: #253858;
   --wf-deep-brown: #5e3d14;
   --body-text-color: var(--wf-medium-brown);
 }
@@ -506,7 +506,7 @@ hr {
 
 /* Set a style for all buttons */
 button {
-  background-color: #CF9730;
+  background-color: #36B37E;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
@@ -522,7 +522,7 @@ button:hover {
 /* Extra styles for the cancel button */
 .cancelbtn {
   padding: 14px 20px;
-  background-color: #434E59;
+  background-color: #cce2f8;
 }
 
 /* Float cancel and signup buttons and add an equal width */
